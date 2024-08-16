@@ -1,1 +1,1 @@
-# Stock-Prediction-with-LSTM
+# Stock Price Forecasting with Deep Learning 
